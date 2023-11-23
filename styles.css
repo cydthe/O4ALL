@@ -1,0 +1,9 @@
+@font-face {
+    font-family: Salina;
+    font-weight: bold;
+    src: url('\salina-font-family-1700689437-0.eof');
+}
+
+body {
+    font-family: Salina;
+}
