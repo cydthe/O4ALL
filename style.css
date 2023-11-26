@@ -24,7 +24,7 @@ a:visited {
 }
 
 .header {
-    font-size: 2em;
+    font-size: 20px;
     font-weight: 520;
     display: flex;
     gap: 20px;
