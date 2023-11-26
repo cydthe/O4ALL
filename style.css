@@ -3,7 +3,7 @@
 body {
     font-family: 'Playfair Display', serif;
     padding-top: 0px;
-   margin: 0;
+    margin: 0;
 }
 
 a {
@@ -31,6 +31,8 @@ a:visited {
     align-items: center;
     justify-content: center;
     background-position: center top;
+	overflow-y: scroll;
+	white-space: nowrap;
 }
 
 .wrapper{
