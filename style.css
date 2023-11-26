@@ -24,14 +24,14 @@ a:visited {
 }
 
 .header {
-    font-size: 20px;
+    font-size: 30px;
     font-weight: 520;
     display: flex;
     gap: 20px;
     align-items: center;
-    justify-content: center;
+    justify-content: start;
     background-position: center top;
-	overflow-y: scroll;
+	overflow-x: auto;
 	white-space: nowrap;
 }
 
